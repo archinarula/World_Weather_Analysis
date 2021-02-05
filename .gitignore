@@ -1,3 +1,8 @@
+# Adding config.py , API_practice and random_numbers file from Module 6 challenge.
+config.py
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
